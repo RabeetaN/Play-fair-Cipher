@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/beeta/OneDrive/UNIVERSITY STUFF/CS/Year 2/SEM 4/Information Security/ciphers/Play fair cipher/main.cpp
+iostream
+-
+vector
+-
+
